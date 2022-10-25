@@ -1,4 +1,4 @@
-<style type="text/css">
+
 		*{
 			margin: 0%;
 		}
@@ -47,22 +47,105 @@
 	    	padding: 5% 0% 5% 8%;
 	    	font-size: 139%;
 	    }
-	    .recharge{
+	    
+.		recharge{
 	    	font-size: 17px;
 	    	margin-bottom: 5%;
 	    }
 	    .Download-App{
-	    	background-color: white;
-	    	color: black;
+	    	background-color: black;
+	    	color: white;
 	    	width: 60%;
 	    	padding: 1%;
-
-
+	    	border-radius: 25px;
+	    	text-align: center;
 	    }
 	    .Download-App:hover{
 	    	background-color: white;
 	    	color: black;
 	    }
+	    .icon{
+	    	margin-left: 4%;
+	    }
+	    .sec3{
+	    	
+	    	padding: 3% 8% 3% 8%;
+	    	background-color: skyblue;
+	    }
+		.book{
+			display: flex;
+			justify-content: space-between;
+		}
+		.book img{
+			margin:5% 0%;
+		}
+		.book a{
+			color:white;
+			text-decoration:none
+		}
+		.sec4{
+			padding: 3% 8% 3% 8%;
+			background-color:pink;
+		}
+		.sec5{
+			padding: 8%;
+			background-color:rgba(239,239,239,0.6);
+			font-family: Poppins;
+		}
 		
-	</style>
-	
+		.Fast{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+	    }
+	     .paytm{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+		}
+	    .Download-App{
+	    	background-color: black;
+	    	color: white;
+	    	width: 60%;
+	    	padding: 1%;
+	    	border-radius: 25px;
+	    	text-align: center;
+	    }
+	    .Download-App:hover{
+	    	background-color: white;
+	    	color: black;
+	    }
+	    .Icon{
+	    	margin-left: 4%;
+	    }
+	    .sec6{
+	    	padding: 3% 8% 3% 8%;
+			background-color:white;
+			font-family: poppins;
+	    	display: flex;
+	    	justify-content: space-between;
+	    	padding: 5% 0% 5% 8%;
+	    	font-size: 139%;
+
+		}
+		.Fast{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+	    .paytm{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+	    }
+	    }
+	    .Download-App{
+	    	background-color: black;
+	    	color: white;
+	    	width: 60%;
+	    	padding: 1%;
+	    	border-radius: 25px;
+	    	text-align: center;
+	    }
+	    .Download-App:hover{
+	    	background-color: white;
+	    	color: black;
+	    }
+	    .Icon{
+	    	margin-left: 4%;
+	    }
