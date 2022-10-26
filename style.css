@@ -41,14 +41,14 @@
 	    	font-family: sans-serif;
 	    }
 	    .sec2{
-	    	font-family: poppins;
+	    	font-family: Poppins;
 	    	display: flex;
 	    	justify-content: space-between;
 	    	padding: 5% 0% 5% 8%;
 	    	font-size: 139%;
 	    }
 	    
-.		recharge{
+.		.recharge{
 	    	font-size: 17px;
 	    	margin-bottom: 5%;
 	    }
@@ -85,7 +85,7 @@
 		}
 		.sec4{
 			padding: 3% 8% 3% 8%;
-			background-color:pink;
+			background-color:blueviolet;
 		}
 		.sec5{
 			padding: 8%;
@@ -94,7 +94,7 @@
 		}
 		
 		.Fast{
-	    	font-size: 17px;
+	    	font-size: 27px;
 	    	margin-bottom: 5%;
 	    }
 	     .paytm{
@@ -116,25 +116,12 @@
 	    .Icon{
 	    	margin-left: 4%;
 	    }
-	    .sec6{
-	    	padding: 3% 8% 3% 8%;
-			background-color:white;
-			font-family: poppins;
-	    	display: flex;
-	    	justify-content: space-between;
-	    	padding: 5% 0% 5% 8%;
-	    	font-size: 139%;
-
-		}
-		.Fast{
-	    	font-size: 17px;
-	    	margin-bottom: 5%;
-	    .paytm{
-	    	font-size: 17px;
+	    
+		.pay{
+	    	font-size: 27px;
 	    	margin-bottom: 5%;
 	    }
-	    }
-	    .Download-App{
+	  .Download-App{
 	    	background-color: black;
 	    	color: white;
 	    	width: 60%;
@@ -149,3 +136,32 @@
 	    .Icon{
 	    	margin-left: 4%;
 	    }
+	    .want{
+	    	font-size: 30px;
+	    }
+	    .sec6{
+	    	font-family: Poppins;
+	    	display: flex;
+	    	justify-content: space-between;
+	    	padding: 5% 0% 5% 8%;
+	    	font-size: 139%;
+	    }
+	    .cash{
+	    	font-size: 27px;
+	    	margin-bottom: 5%;
+	    }
+	     .paytm{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+		}
+	    .Download-App{
+	    	background-color: black;
+	    	color: white;
+	    	width: 60%;
+	    	padding: 1%;
+	    	border-radius: 25px;
+	    	text-align: center;
+	    }
+	    .Download-App:hover{
+	    	background-color: white;
+	    	color: black;
