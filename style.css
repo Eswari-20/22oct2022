@@ -70,7 +70,8 @@
 	    .sec3{
 	    	
 	    	padding: 3% 8% 3% 8%;
-	    	background-color: skyblue;
+	    	background-color:deepskyblue;
+	    	border:25% ;
 	    }
 		.book{
 			display: flex;
@@ -85,7 +86,7 @@
 		}
 		.sec4{
 			padding: 3% 8% 3% 8%;
-			background-color:blueviolet;
+			background-color:blue;
 		}
 		.sec5{
 			padding: 8%;
@@ -101,22 +102,7 @@
 	    	font-size: 17px;
 	    	margin-bottom: 5%;
 		}
-	    .Download-App{
-	    	background-color: black;
-	    	color: white;
-	    	width: 60%;
-	    	padding: 1%;
-	    	border-radius: 25px;
-	    	text-align: center;
-	    }
-	    .Download-App:hover{
-	    	background-color: white;
-	    	color: black;
-	    }
-	    .Icon{
-	    	margin-left: 4%;
-	    }
-	    
+	        
 		.pay{
 	    	font-size: 27px;
 	    	margin-bottom: 5%;
@@ -143,14 +129,36 @@
 	    	font-family: Poppins;
 	    	display: flex;
 	    	justify-content: space-between;
-	    	padding: 5% 0% 5% 8%;
+	    	padding: 1% 4% 1% 4%;
 	    	font-size: 139%;
+	    	background-color: white;
+	    	background-color:rgba(50,50,50.0.5);
 	    }
 	    .cash{
 	    	font-size: 27px;
 	    	margin-bottom: 5%;
 	    }
 	     .paytm{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+		}
+	    .Download-App{
+	    	background-color: black;
+	    	color: white;
+	    	width: 60%;
+	    	padding: 3%;
+	    	border-radius: 25px;
+	    	text-align: center;
+	    }
+	    .Download-App:hover{
+	    	background-color: white;
+	    	color: black;
+	    }
+	    .card{
+	    	font-size: 27px;
+	    	margin-bottom: 5%;
+	    }
+	    .paytm{
 	    	font-size: 17px;
 	    	margin-bottom: 5%;
 		}
@@ -165,3 +173,49 @@
 	    .Download-App:hover{
 	    	background-color: white;
 	    	color: black;
+	    }
+	    .sec7{
+	    	justify-content: space-evenly;
+	    	padding: 12%;
+	    	display: flex;
+	    	font-family: Poppins;
+	    	font-size: 139%;
+	    }
+	    .offers{
+	    	font-size: 17px;
+	    	margin-bottom: 5%;
+	    }
+	    .services{
+	    	font-size: 55px;
+	    	margin-top: 10%;
+	    	padding: 5%;
+	    	margin-left: 70%;
+	    }
+	    .sincere{
+	    	font-size: 17px;
+	    	padding: 5%;
+	    	width: 1%;
+	    	margin-left: 70%;
+	    }
+	    .Download-App{
+	    	background-color: black;
+	    	color: white;
+	    	width: 60%;
+	    	padding: 1%;
+	    	border-radius: 25px;
+	    	text-align: center;
+	    }
+	    .Download-App:hover{
+	    	background-color: white;
+	    	color: black;
+	    }
+	    .icon{
+	    	margin-left: 4%;
+	    }
+	    @media (max-width: 1366px){
+	    	.navigation a{
+	    		font-size: 14px;
+	    	}
+	    }
+
+	    
